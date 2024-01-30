@@ -1,0 +1,1 @@
+document.getElementById("ifjs").style.display = 'block';
