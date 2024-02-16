@@ -1,3 +1,8 @@
 #ifjs {
     display: none;
 }
+.page {
+	width: 86%;
+	left: 7%;
+	right: 7%;
+}
